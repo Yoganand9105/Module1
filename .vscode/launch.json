@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/Users/yogan/OneDrive/Documents/DSA/Module 2",
       "program": "c:/Users/yogan/OneDrive/Documents/DSA/Module 2/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/yogan/OneDrive/Documents/DSA/Module1",
+      "program": "c:/Users/yogan/OneDrive/Documents/DSA/Module1/build/Debug/outDebug",
+>>>>>>> 02d79d546c195b6e97fb13fdcb07861135ba3b3a
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
